@@ -1,0 +1,7 @@
+---
+---
+[
+  {% for fruit in site.fruits %}
+    {{ fruit.output }}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

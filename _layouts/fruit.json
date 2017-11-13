@@ -1,0 +1,9 @@
+---
+---
+{
+  "name": {{ page.name | jsonify }},
+  "color": {{ page.color | jsonify }},
+  "shape": {{ page.shape | jsonify }},
+  "found_in": {{ page.found_in | jsonify }},
+  "description": {{ page.content | jsonify }}
+}
