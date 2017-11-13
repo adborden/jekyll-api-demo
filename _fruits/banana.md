@@ -7,4 +7,6 @@ found_in:
   - banana split
 ---
 
-Peel it, ripen in a brown paper bag.
+## Peel it
+
+Ripen in a brown paper bag.

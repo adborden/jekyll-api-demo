@@ -7,4 +7,8 @@ found_in:
   - orange aide
 ---
 
-Citrus. Vitamin C. Cures scurvy.
+Citrus
+
+Vitamin C
+
+Cures scurvy
