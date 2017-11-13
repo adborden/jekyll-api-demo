@@ -1,4 +1,4 @@
-{% assign api_url = site.github.url | default: 'localhost:4000' | append: site.baseurl | append: '/api/' | append: page.api %}
+{% assign api_url = site.github.url | default: 'http://localhost:4000' | append: site.baseurl | append: '/api/' | append: page.api %}
 
     $ curl {{ api_url }}/fruits/apple.json | jq
     $ curl {{ api_url }}/api/{{ page.api }}/fruits.json | jq
