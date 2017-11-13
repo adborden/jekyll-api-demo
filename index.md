@@ -5,6 +5,6 @@
 layout: page
 ---
 
-- [v1 API](/v1-api/) based on static files
-- [v2 API](/v2-api/) based on data files
-- [v3 API](/v3-api/) based on collections
+- [v1 API]({{ site.baseurl }}/v1-api/) based on static files
+- [v2 API]({{ site.baseurl }}/v2-api/) based on data files
+- [v3 API]({{ site.baseurl }}/v3-api/) based on collections
