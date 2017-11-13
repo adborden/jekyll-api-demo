@@ -4,4 +4,8 @@ shape: round
 found_in:
 - apple pie
 description: |
-  Crispy, crunchy, keeps the doctor away.
+  <p>Crispy.</p>
+
+  <p>Crunchy.</p>
+
+  <p>Keeps the doctor away.</p>
