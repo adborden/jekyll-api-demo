@@ -1,0 +1,8 @@
+name: orange
+color: orange
+shape: round
+found_in:
+  - juice
+  - orange aide
+description: |
+  Citrus. Vitamin C. Cures scurvy.
