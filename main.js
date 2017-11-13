@@ -8,7 +8,7 @@
     $.ajax('/api/' + window.API_VERSION + '/fruits/' + fruit + '.json')
       .then(function (fruit) {
         $('#js-fruit')
-          .append($('<code></code><br>').text(JSON.stringify(fruit)))
+          .append($('<pre></pre><br>').text(JSON.stringify(fruit, null, 2)))
           .append(fruit.description);
       });
   });
